@@ -1,0 +1,325 @@
+orden,ID_Casa,ID_Encuesta,DIR
+99,3,,Presbitero Martinez 595
+100,4,1130,Presbitero Martinez 1042
+96,10,2078,Mateo Boz 1062
+95,11,2079,Mateo Boz 1094
+101,16,1072,Simon de Iriondo 525
+51,20,1482,Presbitero Martinez 1091
+48,21,2211,Rodolfo Lehman 1064
+53,26,2212,Rodolfo Lehman 1064
+49,28,221,Presbitero Martinez 1047
+50,32,221,Avenida Ignacio Crespo 674
+52,41,1115,Presbitero Martinez 1069
+98,51,1150,Simon de Iriondo 416
+1,60,877,J. R. Aldao 400
+5,61,876,J. R. Aldao 450
+97,74,829,Simon de Iriondo 406
+89,75,836,M. Menchaca 1147
+91,78,837,M. Menchaca 1157
+93,82,816,J. R. Aldao 437
+92,84,838,M. Menchaca 1193
+3,91,845,J. R. Aldao 458
+2,92,875,Cafferatta 441
+9,96,1026,M. Menchaca 1335
+8,97,1027,M. Menchaca 1355
+7,98,1040,Manuel Belgrano 465
+10,99,1056,M. Menchaca 1313
+6,101,1054,Mateo Boz 1344
+60,105,440,Mateo Boz 1472
+61,108,430,Mateo Boz 1420
+58,113,495,Mateo Boz 1438
+17,117,1187,Pasaje  San Jose 1421
+14,120,1188,Pasaje  San Jose 1448
+15,121,1189,Pasaje  San Jose 1453
+12,122,1177,Pasaje  San Jose 1471
+62,123,1178,
+67,125,1158,Manuel Belgrano 404
+64,129,1168,Manuel Belgrano 412
+398,131,2271,Pasaje  San Jose 1454
+404,132,1504,Pasaje  san jose 1446
+74,133,479,Martin de Guemes 400
+73,134,190,M. Menchaca 1555
+76,137,1835,Estanislao Lopez
+77,138,1831,
+75,139,478,Martin de Guemes 490
+144,142,456,Buenos Aires 345
+143,143,,Jose Hernandez 1687
+201,145,4522,Estanislao Lopez 318
+141,148,473,Jose Hernandez 1661
+142,149,472,Jose Hernandez 1687
+194,160,5,Rodolfo Lehman 1648
+154,166,424,Estanislao Lopez 612
+156,167,402,Rodolfo Lehman 1526
+155,168,419,Rodolfo Lehman 1566
+190,170,358,Mateo Boz 1096
+193,171,366,Presbitero Martinez 1641
+385,173,368,Estanislao Lopez 
+399,175,379,Estanislao Lopez 714
+401,176,381,Estanislao Lopez 704
+386,177,385,Estanislao Lopez 
+175,178,331,Buenos Aires 741
+174,179,333,Buenos Aires 723
+176,180,328,Buenos Aires 705
+164,182,398,Rodolfo Lehman 1635
+173,184,334,Buenos Aires 715
+177,186,332,Buenos Aires 731
+166,187,322,Rodolfo Lehman 1619
+168,188,323,Rodolfo Lehman 1667
+380,190,305,Avenida Mitre 2345
+379,191,340,Avenida Mitre 2315
+111,195,283,Santa Fe 1654
+376,198,264,Avenida Mitre 1700
+117,200,294,Pasaje  San Luis 1675
+115,201,294,Alfonsina Storni 162
+106,202,295,Estanislao Lopez 114
+113,203,292,Santa Fe 1682
+116,204,277,Avenida Mitre 1690
+382,208,265,Avenida Mitre 1900
+377,209,263,Avenida Mitre 1700
+384,210,267,Avenida Mitre
+108,212,2531,Alfonsina Storni 1527
+119,213,7471,Estanislao Lopez 1089
+118,215,7451,Alfonsina Storni 1571
+120,216,7431,Alfonsina Storni 1531
+362,218,735,J. Diaz y Clucellas 1540
+365,219,739,J. Diaz y Clucellas 1568
+366,220,733,J. Diaz y Clucellas 1526
+191,226,1,Manuel Belgrano 1096
+188,231,3,J. Diaz y Clucellas 1428
+369,233,683,Martin de Guemes 1083
+364,234,685,Martin de Guemes 1060
+184,238,672,J. Diaz y Clucellas 1466
+183,239,665,J. Diaz y Clucellas 1458
+214,243,653,J. Diaz y Clucellas 1358
+125,250,,Manuel Belgrano 1049
+127,251,602,Manuel Belgrano 1065
+217,253,,Alfonsina Storni 1381
+126,256,629,Manuel Belgrano 1060
+124,257,622,Manuel Belgrano 1029
+129,260,599,Cafferatta 1045
+372,265,572,Alfonsina Storni 1281
+132,268,551,Cafferatta 1055
+130,269,563,J. Diaz y Clucellas 1270
+128,270,,J. Diaz y Clucellas 1240
+207,273,553,J. R. Aldao 1068
+131,276,542,J. Diaz y Clucellas 1256
+367,277,534,Alfonsina Storni 1229
+371,278,532,Alfonsina Storni 1293
+137,286,501,Alfonsina Storni 1115
+136,287,502,Alfonsina Storni 1135
+133,288,504,Alfonsina Storni 1131
+391,292,774,Pasaje de Martino 1155
+394,293,754,J. Diaz y Clucellas 1174
+388,294,775,Pasaje de Martino 1179
+389,295,758,Pasaje de Martino 1055
+392,296,765,Pasaje de Martino 1115
+393,297,756,J. Diaz y Clucellas 1124
+163,298,1250,J. Diaz y Clucellas 1124
+160,301,1234,J. R. Aldao 1089
+157,304,1220,Alfonsina Storni 1019
+158,307,986,Alfonsina Storni 1031
+159,308,990,Alfonsina Storni 1043
+138,316,962,Avenida Ignacio Crespo 1032
+140,317,973,Avenida Ignacio Crespo 1002
+242,320,1675,Santa Fe 1556
+243,326,1686,
+169,353,2844,Rodolfo Lehman 
+186,502,2760,Cafferatta 750
+185,504,2772,Rodolfo Lehman 1329
+368,510,2784,Manuel Belgrano 747
+374,511,2783,Manuel Belgrano 725
+375,512,2782,
+123,513,2791,Santa Fe 1370
+121,514,2794,Santa Fe 1390
+122,515,2798,Santa Fe 1370
+150,517,2836,Rodolfo Lehman 1241
+149,518,2834,Rodolfo Lehman 1241
+153,519,2811,J. R. Aldao 740
+152,521,281,J. R. Aldao 700
+147,526,2831,Cafferatta 756
+145,527,2832,
+199,538,284,Rodolfo Lehman 1272
+172,540,2841,Presbitero Martinez
+200,541,2905,Rodolfo Lehman 1272
+196,543,2862,J. R. Aldao 692
+198,544,2913,J. R. Aldao 666
+266,546,2897,Avenida Mitre 1174
+170,550,2842,Presbitero Martinez 1275
+171,551,2843,Presbitero Martinez 1285
+215,553,2939,Presbitero Martinez 1339
+216,558,2938,Presbitero Martinez 1337
+281,567,1913,Santa Fe
+324,571,1899,Manuel Belgrano y Santa Fe
+325,574,1898,Manuel Belgrano 790
+213,576,2946,Presbitero Martinez
+210,579,1766,Manuel Belgrano 609
+209,580,1765,Manuel Belgrano 624
+212,585,1739,Presbitero Martinez 1445
+208,588,2985,Manuel Belgrano 634
+211,590,2993,Manuel Belgrano 674
+272,592,1793,Rodolfo Lehman 1923
+271,594,1798,Santa Fe 1464
+279,595,1778,Rodolfo Lehman 1471
+268,598,1779,Santa Fe 1492
+354,601,1943,Santa Fe 1414
+265,603,1929,Martin de Guemes 717
+357,607,1921,Santa Fe 1442
+360,608,1924,Santa Fe 1414
+278,611,1990,Manuel Belgrano 8086
+275,614,2000,Santa Fe 1473
+258,616,1955,Santa Fe 1435
+63,618,1179,
+273,619,1965,Martin de Guemes 802
+276,622,1972,Santa Fe 1415
+263,630,2515,Avenida Mitre 1164
+267,631,1872,Avenida Mitre 1184
+255,634,1878,Santa Fe 1129
+257,637,1855,Santa Fe 1101
+256,638,1856,
+260,640,1845,
+403,646,2272,Pasaje  San Jose 1472
+251,647,1839,
+254,648,1838,J. R. Aldao 861
+347,654,2653,Santa Fe 1535
+331,655,2527,
+327,658,2646,J. R. Aldao 775
+328,667,2523,Simon de Iriondo 747
+329,668,2639,Rodolfo Lehman 1145
+332,670,2508,Santa Fe 1146
+330,671,2511,Santa Fe
+293,676,2710,J. R. Aldao 305
+285,677,2711,J. R. Aldao 677
+339,682,2553,Simon de Iriondo 688
+349,692,2666,Rodolfo Lehman 1180
+359,693,2668,Rodolfo Lehman 1156
+352,694,2669,Rodolfo Lehman 1190
+302,696,2656,Presbitero Martinez 1163
+307,702,,Simon de Iriondo 516
+313,703,,Simon de Iriondo 594
+309,705,2579,Mateo Boz 1165
+303,706,2583,Mateo Boz 1115
+308,707,2585,Mateo Boz 1191
+286,708,2609,J. R. Aldao 543
+283,717,2741,J. R. Aldao 567
+284,720,2730,Presbitero Martinez 1166
+288,724,,Simon de Iriondo 566
+252,726,2307,J. R. Aldao 516
+65,727,1170,
+395,729,1197,Pasaje  San Jose 1462
+396,730,1200,Pasaje  San Jose 1422
+397,731,1199,Pasaje  San Jose 1480
+289,738,2616,J. R. Aldao 570
+291,739,2253,J. R. Aldao 594
+290,740,2254,J. R. Aldao 582
+274,742,150,
+277,743,230,Presbitero Martinez 1258
+296,746,2280,Mateo Boz 1395
+298,748,1542,Presbitero Martinez 1390
+315,752,1515,Mateo Boz 1365
+311,753,1528,Mateo Boz 1345
+300,757,2334,Manuel Belgrano 
+218,762,2324,Cafferatta 
+333,763,2319,Presbitero Martinez 
+326,764,2320,Presbitero Martinez 596
+294,770,2352,Martin de Guemes 535
+287,776,,Presbitero Martinez 1476
+295,778,1552,Manuel Belgrano 544
+306,779,1561,Mateo Boz 1485
+319,781,1557,Mateo Boz 1487
+314,783,,Mateo Boz 1437
+356,784,1600,Presbitero Martinez 1526
+351,786,1589,Mateo Boz 1585
+405,787,1609,Presbitero Martinez 1548
+361,793,2294,Mateo Boz 1585
+338,796,1641,Estanislao Lopez 607
+336,799,1665,Presbitero Martinez 1575
+323,802,1663,Martin de Guemes 638
+318,803,1661,Rodolfo Lehman 1556
+321,804,1662,Martin de Guemes 678
+322,805,2404,Martin de Guemes 650
+317,812,1664,Rodolfo Lehman 1576
+244,814,1685,
+248,817,1717,
+240,821,1711,Santa Fe 1560
+241,822,1689,Rodolfo Lehman 1545
+249,823,1705,
+250,824,1707,
+246,827,1682,
+245,828,691,
+247,831,,Martin de Guemes 702
+348,835,1725,Santa Fe 1537
+346,838,1732,Martin de Guemes 820
+342,841,1748,Avenida Mitre 1548
+345,842,1747,Avenida Mitre 1506
+341,843,2651,Avenida Mitre 1576
+162,844,1626,J. Diaz y Clucellas 1156
+161,845,1244,J. Diaz y Clucellas 1178
+269,847,1271,Martin de Guemes 942
+264,848,,Avenida Mitre 1517
+262,849,1273,Avenida Mitre 1585
+232,850,1268,Estanislao Lopez 955
+230,851,1270,Estanislao Lopez 975
+231,852,1269,Estanislao Lopez 985
+225,853,1639,Estanislao Lopez 925
+228,854,1260,Estanislao Lopez 965
+227,855,1261,Estanislao Lopez 955
+343,861,2481,Martin de Guemes 900
+335,868,,Alfonsina Storni 1560
+340,869,2451,Alfonsina Storni 1552
+334,872,2442,Alfonsina Storni 1555
+224,874,1302,Avenida Mitre 1473
+220,875,1305,Pasaje 4 de Diciembre 1492
+219,876,1303,Martin de Guemes 909
+79,877,1307,Simon de Iriondo 711
+80,878,1308,Simon de Iriondo 763
+223,880,2190,Avenida Mitre 1413
+222,882,1304,Avenida Mitre 1423
+237,883,1296,Pasaje 4 de Diciembre 1432
+239,884,1295,Pasaje 4 de Diciembre 1412
+238,885,1297,Pasaje 4 de Diciembre 1422
+234,886,2163,Pasaje 4 de Diciembre 1452
+236,887,2165,Pasaje 4 de Diciembre 1472
+20,889,2223,Alfonsina Storni 1412
+21,890,1363,Alfonsina Storni 1456
+71,892,2234,Pasaje 4 de Diciembre 1493
+18,895,2229,Alfonsina Storni 1466
+23,896,1364,Alfonsina Storni 1511
+72,898,2233,Pasaje 4 de Diciembre 1433
+25,903,1345,Alfonsina Storni 1480
+24,904,1344,Pasaje 4 de Diciembre 1413
+27,905,1343,Pasaje 4 de Diciembre 1483
+47,910,1294,Simon de Iriondo 920
+70,914,2200,Avenida Mitre 1101
+69,915,1293,Simon de Iriondo 996
+46,916,2198,Simon de Iriondo 944
+45,918,1315,Simon de Iriondo 968
+41,925,1284,Avenida Mitre 1162
+31,928,1394,Alfonsina Storni 1058
+39,931,1400,Simon de Iriondo 967
+33,934,1499,Alfonsina Storni 1038
+28,936,1411,Alfonsina Storni 1066
+104,937,1430,Avenida Mitre 1063
+38,940,1462,Simon de Iriondo 955
+103,943,1434,Avenida Mitre 1081
+42,944,1436,Avenida Mitre 1075
+54,949,1454,Avenida Ignacio Crespo 982
+82,955,2148,Avenida Ignacio Crespo 870
+81,958,2138,Avenida Ignacio Crespo 832
+84,964,2118,Avenida Mitre 1044
+83,965,2127,Avenida Mitre 1062
+35,967,1479,Simon de Iriondo 855
+36,969,1475,Avenida Ignacio Crespo 870
+30,970,1470,Santa Fe 1055
+37,971,1476,Avenida Ignacio Crespo 870
+86,997,2067,Avenida Ignacio Crespo 724
+88,1000,2054,Santa Fe 1092
+56,1008,2097,Mateo Boz 1008
+195,1048,,J. Diaz y Clucellas 1048
+110,1085,746,Estanislao Lopez 1055
+57,1116,481,
+182,2923,562,Rodolfo Lehman 1366
+178,2977,56,Rodolfo Lehman 1356
+179,2980,299,Rodolfo Lehman 
+180,2982,556,Rodolfo Lehman 1388
+181,2983,555,Rodolfo Lehman 1366
+292,,1565,J. R. Aldao 538

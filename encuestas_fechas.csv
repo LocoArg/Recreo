@@ -1,0 +1,372 @@
+ID_Encuesta,Nombre,Apellido,dia,mes,anio,naci
+1,Alfredo,Choviatt,9,10,1948,10/9/1948
+2,Maximiliano,Choviatt,10,12,1996,12/10/1996
+3,Gonzalo,Lutri,31,12,1995,12/31/1995
+4,Ariel,Lutri,7,6,1969,6/7/1969
+190,Rosana,Maidana,30,12,1979,12/30/1979
+201,juan carlos,arutti,13,1,1954,1/13/1954
+263,Irma,Vaumgartner,5,3,1941,3/5/1941
+264,Isidro,Castanieira,20,3,1973,3/20/1973
+265,Marta,Magnago,4,12,1960,12/4/1960
+277,Gustavo,Puentes,19,10,1986,10/19/1986
+281,Maria Lucia,Rajoni,15,7,1958,7/15/1958
+282,Carina,Mascalto,5,5,1992,5/5/1992
+283,Gabriel ,Ayala,16,10,1974,10/16/1974
+284,Patricia,Ballejos,24,3,1980,3/24/1980
+284,Franco,Garcia,30,5,1977,5/30/1977
+292,Tamara,Granau,14,4,1990,4/14/1990
+293,Nahuel,Granau,,,,
+294,Hugo,Pedrali,14,10,1962,10/14/1962
+294,Georgina,Fratte,21,3,1979,3/21/1979
+295,Norma,Mare,10,10,1962,10/10/1962
+302,Antonio,Odriozola,21,11,1936,11/21/1936
+303,Pablo,Bonet,9,3,1988,3/9/1988
+304,Ana del Carmen,Rodriguez,16,5,1944,5/16/1944
+305,Rogelio,Rucci,12,6,1938,6/12/1938
+322,Angel Ramon,Leguizamon,26,8,1967,8/26/1967
+323,Rosa,Ortaldia,29,8,1956,8/29/1956
+328,Luciana,Olivera,6,7,1991,7/6/1991
+331,Felisa,Luques,10,9,1961,9/10/1961
+332,Brenda,Martinez,18,10,1991,10/18/1991
+333,Irene,Capobianco,27,6,1965,6/27/1965
+334,Daniela,Florentina,4,6,1985,6/4/1985
+336,Matias,Miranda,6,5,1997,5/6/1997
+340,Maria Cristina,Villalba,7,4,1970,4/7/1970
+356,Nicolas,Leguizamon,14,2,1997,2/14/1997
+358,Yesica,Ocampo,7,6,1986,6/7/1986
+366,Maria,Curihuesped,28,4,1980,4/28/1980
+398,Marcelo,Miranda,18,5,1975,5/18/1975
+403,Agustina,Esquerdo,17,8,1995,8/17/1995
+419,Marta,Yossem,3,2,1967,2/3/1967
+424,Adrian,Osuna,28,12,1974,12/28/1974
+430,Zoila,Arrieta,29,6,1943,6/29/1943
+440,norma,Berrengia,31,12,1990,12/31/1990
+456,Claudia,Vargas,21,6,1988,6/21/1988
+472,Carolina,Moos,16,7,1984,7/16/1984
+473,Ramon Oscar,Maidana,15,8,1963,8/15/1963
+478,Gabriela,Sotomayor,23,2,1994,2/23/1994
+479,Jose,Aquino,6,9,1954,9/6/1954
+489,oscar,leiva,,,,
+495,Elena,Odriozola,17,10,1970,10/17/1970
+501,Maria Laura,Ramis,23,1,1975,1/23/1975
+502,Gerardo,Mendoza,20,9,1960,9/20/1960
+503,Graciela,Sazia,24,12,1961,12/24/1961
+504,Orlando Jose,Gonzalez,4,11,1958,11/4/1958
+505,Nerea,Gonzalez,4,12,1992,12/4/1992
+532,Patricia,Ledesma,11,6,1975,6/11/1975
+534,Maria del Carmen,Casel,3,7,1933,7/3/1933
+551,Matias,Benitendi,5,12,1979,12/5/1979
+553,Martin Diego,Grimalt,11,2,1977,2/11/1977
+563,Catalina,Budniewski,27,4,1961,4/27/1961
+572,Monica,Vaillard,14,7,1958,7/14/1958
+573,Sebastian,Lucchini,4,8,1988,8/4/1988
+602,Marcela,Molina,10,2,1972,2/10/1972
+622,Jesica,Dellia Bianca,28,10,1988,10/28/1988
+653,Claudia,Moreno,24,1,1986,1/24/1986
+665,Marta Celia,Bortoli,21,10,1976,10/21/1976
+672,Hugo ,Oniez,3,12,1944,12/3/1944
+683,Elisa,Gutman,14,7,1937,7/14/1937
+684,Raul,Narducci,28,7,1928,7/28/1928
+685,Estela Maris,Berastegui,12,12,1947,12/12/1947
+733,Teresa Matilde,Segovia,30,11,1950,11/30/1950
+734,Rocio,Ibarra,12,12,1995,12/12/1995
+735,Guillermo,Valentinuzzi,25,9,1992,9/25/1992
+739,Maria del Valle,Mosna,11,11,1976,11/11/1976
+746,Mirian,Poet,20,9,1984,9/20/1984
+754,Nicolas,Pacheco,6,5,1986,5/6/1986
+756,Antonella,Carini,13,9,1988,9/13/1988
+758,Horacio,Zonzogni,15,8,1958,8/15/1958
+765,Marcela,Tucci,26,1,1968,1/26/1968
+773,Hada Alba,Cochia,22,10,1959,10/22/1959
+774,Silvina,Fascio,1,6,1980,6/1/1980
+775,Nicolas ,Del Prato,7,10,1981,10/7/1981
+816,Domingo Rufino,Mazza,30,7,1947,7/30/1947
+825,Imelda Rosa,Mengolo,22,1,1949,1/22/1949
+829,Luisa,Pais,16,2,1955,2/16/1955
+836,Rita Ines,Colombo,20,4,1957,4/20/1957
+837,hilda esther,coletti,20,7,1934,7/20/1934
+838,Marisel,Riguetti,14,1,1977,1/14/1977
+845,Horacio ,Vega,11,3,1928,3/11/1928
+856,Yolanda,Moro,31,5,1929,5/31/1929
+875,Andrea,Aguirre,30,11,1982,11/30/1982
+876,Lujan Carla,Verge,20,1,1980,1/20/1980
+877,Maria del Carmen,Guerra,14,3,1979,3/14/1979
+962,Alicia,Difiligo,10,3,1957,3/10/1957
+969,Antonio,Babela,23,9,1955,9/23/1955
+973,Marisa,Unia,23,4,1971,4/23/1971
+986,Macarena,Martinez,9,1,1993,1/9/1993
+990,Gricelda,Cherri,6,1,1966,1/6/1966
+1026,Sergio,Monzon,4,10,1991,10/4/1991
+1027,Veronica,Smith,21,11,1979,11/21/1979
+1040,Delfina,Di Giorgio,4,6,1943,6/4/1943
+1053,Monica,Orrego,16,3,1967,3/16/1967
+1054,Ruben Dario,Flores,15,12,1965,12/15/1965
+1056,Raul,Cesar,10,2,1978,2/10/1978
+1065,roberto,velasquez,12,13,1945,1/12/1946
+1072,maria,gomez,19,5,1954,5/19/1954
+1115,Florencia ,Montoya,21,6,1995,6/21/1995
+1130,Mirta,Appiani,20,8,1956,8/20/1956
+1150,Antonia,pulcini,16,6,1946,6/16/1946
+1158,America,gomez,28,3,1964,3/28/1964
+1168,Juan Alberto,coll,30,8,1961,8/30/1961
+1177,Gladis,mascheroni,21,3,1957,3/21/1957
+1180,norberto,vega,27,2,1981,2/27/1981
+1181,Carlos,Acosta,12,1,1959,1/12/1959
+1187,Vanesa,Olivera,22,8,1987,8/22/1987
+1188,Altamirano,Blanco,20,6,1938,6/20/1938
+1189,Lisandra,Lufiego,6,3,1981,3/6/1981
+1197,Paola,Beltrame,2,1,1983,1/2/1983
+1199,Raquel,Alvarez,31,5,1963,5/31/1963
+1200,Luz Maria,Aguirre,21,9,1992,9/21/1992
+1220,Rocio,Superlano,17,6,1982,6/17/1982
+1222,Agustin,gomelio,20,9,1962,9/20/1962
+1234,Selva,Ferreyra,30,5,1953,5/30/1953
+1244,Marcelo,Anto¤enzzo,8,11,1966,11/8/1966
+1250,Hector,Carini,7,8,1960,8/7/1960
+1259,Griselda,Vallejos,3,3,1993,3/3/1993
+1260,Luis,Vallejos,19,11,1957,11/19/1957
+1261,Marina,Acu¤a,30,9,1971,9/30/1971
+1267,Maria,Franco,23,3,1974,3/23/1974
+1268,Jose Luis,Catuzzi,12,7,1989,7/12/1989
+1269,Bibiana,Rodrigo,6,2,1960,2/6/1960
+1270,Virgilio,Galier,25,3,1945,3/25/1945
+1271,Romina,Crespo,19,3,1990,3/19/1990
+1273,Cecilia,Galier,15,2,1942,2/15/1942
+1274,Emiliano,Esquerdo,31,3,1989,3/31/1989
+1284,Elvira,Beretta,15,8,1945,8/15/1945
+1293,Milagros,Colla,21,5,1984,5/21/1984
+1294,Iris,Rodriguez,30,8,1951,8/30/1951
+1295,Luis,Zabala,12,9,1950,9/12/1950
+1296,Raquel Matilde,Forni,11,9,1950,9/11/1950
+1297,Sergio,Esquerdo,11,9,1970,9/11/1970
+1302,Yanina,Villalba,16,3,1979,3/16/1979
+1303,Carlos,Gerosa,4,4,1960,4/4/1960
+1304,Estefania,Alloatti,2,1,1994,1/2/1994
+1305,Nidia,Rastelli,20,8,1960,8/20/1960
+1306,Eduardo,Gerez,4,2,1959,2/4/1959
+1307,Adriana Noemi,Vergara,2,6,1981,6/2/1981
+1308,Evangelina,Rodriguez,3,11,1980,11/3/1980
+1315,Elsa,Farias,29,10,1938,10/29/1938
+1343,Francisco,Ruiz,3,4,1996,4/3/1996
+1344,Amanda,Pereyra,14,2,1953,2/14/1953
+1345,Luis Albino,Duran,28,11,1945,11/28/1945
+1351,Maria Rosa,Quevedo,2,12,1956,12/2/1956
+1363,Agustin,Gianassi,6,12,1997,12/6/1997
+1364,Carlos,Forni,31,1,1959,1/31/1959
+1387,Beatriz,Catallo,19,1,1951,1/19/1951
+1394,Lucia ,Carnevale,23,5,1925,5/23/1925
+1400,Ovidio Hector,Rodriguez,26,12,1944,12/26/1944
+1401,Guadalupe,Ingaramo,30,9,1945,9/30/1945
+1403,Graciela,Zaninetti,3,3,1955,3/3/1955
+1411,Ruben,Coll,24,5,1951,5/24/1951
+1427,Gabriel,Villan,10,10,1996,10/10/1996
+1430,Hugo ,Figueroa,25,10,1952,10/25/1952
+1434,Carina,Hels,27,9,1976,9/27/1976
+1435,Maria Rosa,Correa,3,10,1954,10/3/1954
+1436,Ramon,Villan,17,1,1958,1/17/1958
+1437,Ines Mariela,Gomez,10,10,1968,10/10/1968
+1448,Beatriz,Sibrigen,27,3,1955,3/27/1955
+1454,Ramon,Subrigen,13,8,1947,8/13/1947
+1462,Carina,Vallino,10,6,1977,6/10/1977
+1470,Juan Carlos,Bar,8,9,1952,9/8/1952
+1475,Nicolas Oscar,Buratto,19,9,1978,9/19/1978
+1476,Orlando Jose,Gonzalez,4,11,58,11/4/1958
+1479,Leandro ,Frutos,12,11,1996,11/12/1996
+1482,Elsa,Rodrigues,4,11,1939,11/4/1939
+1499,Ramon,Guianassi,5,3,1945,3/5/1945
+1504,Vanina,Isauraldi,22,5,1978,5/22/1978
+1515,Sandra  ,Fernandez,4,12,1973,12/4/1973
+1528,Clara Ester,Volk,2,8,1966,8/2/1966
+1533,Marcela,Torres,9,5,1981,5/9/1981
+1542,Sebastian,Rojas,20,7,1978,7/20/1978
+1545,Rodolfo Daniel,Fuentes,4,2,1970,2/4/1970
+1552,Miguel,Granau,22,4,1968,4/22/1968
+1557,Antonio,Vera,5,3,1949,3/5/1949
+1558,Priscila,Villalba,19,5,1995,5/19/1995
+1561,Rodolfo Daniel,Encina,18,4,1952,4/18/1952
+1609,Luisine,Albornoz,12,4,1999,4/12/1999
+1626,Soledad,Ories,16,2,1979,2/16/1979
+1639,Elsa,Monzon,2,9,1954,9/2/1954
+1640,Dionisio,Ortiz,9,10,1949,10/9/1949
+1641,Natanael,Sejas,16,7,1994,7/16/1994
+1661,Sabrina,Cordoba,9,7,1996,7/9/1996
+1662,Fabiana,Miguel,5,4,1967,4/5/1967
+1663,Carolina,Caba¤as,7,8,1994,8/7/1994
+1664,Gabriela,Arriola,13,1,1982,1/13/1982
+1665,Bruni,Cespedes,13,5,1989,5/13/1989
+1666,Mabel,Nescier,13,4,1961,4/13/1961
+1675,Amalia,Ibarra,21,5,1954,5/21/1954
+1689,Blanca Yolanda,Paladea,2,8,1960,8/2/1960
+1705,Elida Alvira,Jovellano,17,3,1943,3/17/1943
+1725,Marilyn,Ibarra,4,8,1981,8/4/1981
+1732,Yolanda,Lozano,19,11,1941,11/19/1941
+1739,Maria Cristina,Garcia,4,8,1950,8/4/1950
+1747,Maria,Rodriguez,6,9,1989,9/6/1989
+1748,Fernando,Gietz,20,10,1990,10/20/1990
+1765,Daniel ,Aveni,11,6,1966,6/11/1966
+1766,Antonio Alberto,Cuestas,,,,
+1778,Nanci,Ingaramo,24,12,1963,12/24/1963
+1779,Jesica,Rivero,20,9,1986,9/20/1986
+1793,Anahi,Magallanes,16,7,1985,7/16/1985
+1794,Daniel,Vera,30,10,1996,10/30/1996
+1798,Anita,Barco,7,6,1931,6/7/1931
+1825,Nahuel,Puentti,25,5,1996,5/25/1996
+1838,Gaston,Rios,30,7,1987,7/30/1987
+1845,Mariel,Martinez,8,5,1996,5/8/1996
+1855,Angel  ,Coseres,24,3,1994,3/24/1994
+1856,Josefa,Coianiz,20,1,1933,1/20/1933
+1872,Nicolas,Ibarra,25,2,1992,2/25/1992
+1878,Omar Ruben,Colombo,24,11,1979,11/24/1979
+1880,Carlos,Lobos,30,5,1995,5/30/1995
+1898,Graciela,Olivarez,24,1,1981,1/24/1981
+1899,Melina,Ramirez,11,11,1991,11/11/1991
+1912,Debora,Martinez,2,3,1988,3/2/1988
+1913,Leticia,De Los Rios,19,4,1981,4/19/1981
+1917,Luis,Gerez,8,12,1980,12/8/1980
+1921,Marlene,Caceres,5,4,1994,4/5/1994
+1924,Claudia,Sole,8,3,1972,3/8/1972
+1929,Teresa Matilde,Duarte,1,8,1963,8/1/1963
+1943,Juan Ramon,Martinez,10,2,1950,2/10/1950
+1945,Nora,Junges,19,8,1953,8/19/1953
+1946,Guadalupe,Grassino,24,6,1976,6/24/1976
+1955,Victor Omar,Puentti,20,11,1969,11/20/1969
+1965,Jorgelina,Martinez,23,2,1949,2/23/1949
+1972,Fabricio,Sanchez,6,4,1991,4/6/1991
+1990,Gabriel,Segovia,3,11,1997,11/3/1997
+2000,Maria,Bola¤os,29,5,1951,5/29/1951
+2038,Tobias,Alliot,18,8,1994,8/18/1994
+2054,Graciela,Peiteado,24,3,1964,3/24/1964
+2067,Lidia,Marin,16,10,1942,10/16/1942
+2078,Estela Maris,Gandolfi,5,10,1950,10/5/1950
+2079,natalia,Bianco,25,7,1981,7/25/1981
+2097,Atilio,Bar,16,12,1937,12/16/1937
+2098,Veronica,Coll,,,,
+2118,Fortunato,Mazzata,7,2,1927,2/7/1927
+2119,Norma,Rodriguez,4,5,1935,5/4/1935
+2127,Claudia,Frutos,6,12,1961,12/6/1961
+2138,Maria Rosa,Nasnaghi,1,10,1951,10/1/1951
+2148,Luis,Fedelle,1,7,1959,7/1/1959
+2163,Catalina,Gauna,4,2,1970,2/4/1970
+2165,Ramon,Puentes,5,11,1947,11/5/1947
+2166,Juliana,Villalba,9,10,1997,10/9/1997
+2190,Maria Eugenia,Rodriguez,23,10,1991,10/23/1991
+2198,Gustavo,Borda,17,7,1981,7/17/1981
+2200,Maria Soledad,Hernandez,20,11,1973,11/20/1973
+2211,Marta ,Kuffer,7,1,1948,1/7/1948
+2212,Gladis,Operto,30,9,1936,9/30/1936
+2213,Josefina,Appiani,2,11,1994,11/2/1994
+2215,Mirian,Cayo,17,11,1963,11/17/1963
+2223,Ana Karina,Miranda,17,7,1978,7/17/1978
+2224,Jaquelina,Oliva  ,27,9,1995,9/27/1995
+2229,Nancy,Bogado,,,,
+2232,Leonel,Lobato,13,2,1992,2/13/1992
+2233,Elizabeth,Arce,23,6,1980,6/23/1980
+2234,Elvio Omar,Lencina,1,10,1960,10/1/1960
+2252,Marina,Rodrigo,10,6,1979,6/10/1979
+2253,Maria Jose,Oviedo,21,7,1969,7/21/1969
+2272,Sandra Patricia,Alvarez,30,10,1968,10/30/1968
+2280,Luis Alberto,Fernandez,14,9,1949,9/14/1949
+2289,Brenda,Fernandez,29,8,1995,8/29/1995
+2294,Jesica,Favatier,9,3,1985,3/9/1985
+2319,Evito,Hilbe,9,3,1981,3/9/1981
+2320,Angelica,Laorden,17,7,1986,7/17/1986
+2324,Mariana,Schneider,21,9,1976,9/21/1976
+2334,Fabio,Hoet,2,8,1979,8/2/1979
+2336,Hugo Alberto,Cordoba,12,4,1964,4/12/1964
+2404,Analia,Bertet,11,3,1987,3/11/1987
+2442,Juan Jose,Alvarado,24,6,1973,6/24/1973
+2451,Silvia Noemi,Forni,19,8,1976,8/19/1976
+2480,Gisela,Ortiz,28,4,1983,4/28/1983
+2481,Fabricio,Minetti,13,2,1975,2/13/1975
+2508,Veronica,Leiva,2,10,1981,10/2/1981
+2511,Edith,Seconi,14,6,1949,6/14/1949
+2523,Cesar,Meza,6,9,1988,9/6/1988
+2527,Alejandro,Zaninetti,15,9,1971,9/15/1971
+2531,Hilda,Salami,9,10,1961,10/9/1961
+2541,Irma,Cian,29,3,1937,3/29/1937
+2553,Viviana,Gonzalez,6,3,1967,3/6/1967
+2574,Jose,Ocampo,27,9,1963,9/27/1963
+2579,Diana,Gonzalez,2,1,1958,1/2/1958
+2580,Martin,Pereyra,3,4,1990,4/3/1990
+2581,Orlando Jose,Pereyra,14,7,1954,7/14/1954
+2583,Silvia,Baldani,29,7,1954,7/29/1954
+2585,Tomas  ,Gonzalez,18,9,1920,9/18/1920
+2609,Emma,Dettler,1,3,1946,3/1/1946
+2615,Carina,Levatti,22,12,1969,12/22/1969
+2639,Gricelda,Gorla,28,2,1954,2/28/1954
+2646,Ilda,Rossi,24,8,1960,8/24/1960
+2651,Silvia,Buratti,18,4,1980,4/18/1980
+2653,Felix Francisco,Cordoba,11,3,1954,3/11/1954
+2656,Gustavo,Coll,2,12,1983,12/2/1983
+2666,Blanca,Vivas,18,4,1936,4/18/1936
+2667,Ramon  ,Gomez,22,12,1937,12/22/1937
+2668,Gladys,Geese,5,1,1944,1/5/1944
+2669,Hector,Ruiz,4,1,1936,1/4/1936
+2670,Mirta,Vallino,14,6,1948,6/14/1948
+2710,Mariano,Marracino,9,10,1977,10/9/1977
+2711,Alejandra,Bourquin,23,5,1968,5/23/1968
+2730,Norma,Josen,4,6,1938,6/4/1938
+2741,Alicia,Bromdetta,8,3,1952,3/8/1952
+2754,Osvaldo Luis,Barreto,16,5,1965,5/16/1965
+2760,Cristina,Medina,22,7,1968,7/22/1968
+2772,Micaela ,Chiarena,19,4,1996,4/19/1996
+2782,Andrea,Gregoretti,,,,
+2783,Javier,Bordon,16,5,1980,5/16/1980
+2784,Carlos,Benitez,19,7,1976,7/19/1976
+2791,Marcelo ,Lopez,9,6,1972,6/9/1972
+2794,Maria del Carmen,Gonzalez,26,1,1970,1/26/1970
+2798,Maria Beatriz,Gonzalez,5,12,1953,12/5/1953
+2811,Hernan,Lutri,23,6,1980,6/23/1980
+2831,Leticia,Grant,4,12,1955,12/4/1955
+2832,Olga,Hofstetter,17,2,1959,2/17/1959
+2833,Carolina,Curihuesped,18,5,1976,5/18/1976
+2835,Agustin,Rolando Ponce,3,6,1950,6/3/1950
+2836,Elba,Salazar,1,1,1928,1/1/1928
+2840,Sabina,Aluelo,11,4,1991,4/11/1991
+2841,Adriana,Colman,21,1,1980,1/21/1980
+2842,Alicia,Postai,22,10,1959,10/22/1959
+2843,German,Ponce,5,11,1953,11/5/1953
+2844,Alexis,Gonzalez,17,1,1986,1/17/1986
+2861,Maria Laura,Rucci,15,4,1965,4/15/1965
+2862,Juan Jose,Ortalda,24,11,1958,11/24/1958
+2897,Nicolas,Ranzani,10,12,1995,12/10/1995
+2905,Nelida ,Bar ,28,11,1957,11/28/1957
+2913,Sebastian,Medina,14,2,1983,2/14/1983
+2923,Agustin,Tschieder,1,8,1988,8/1/1988
+2938,Alba,Rodriguez,23,2,1974,2/23/1974
+2939,Natalia,Ferrero,4,11,1985,11/4/1985
+2977,Pamela,Chetti,28,9,1992,9/28/1992
+2980,Celestina,Medina,16,11,1949,11/16/1949
+2982,Maria Teresa,Barreto,1,10,1958,10/1/1958
+2983,Claudia,Aguirre,13,11,1980,11/13/1980
+2985,Omar Ruben,Mendoza,22,6,1964,6/22/1964
+2993,Amalia,Mariel,,,,
+3681,Ana,Silvero,27,12,1973,12/27/1973
+3781,Jorgelina,Rosales,28,9,1971,9/28/1971
+3791,Maria Ines,Dominguez,6,7,1966,7/6/1966
+3801,Natalia Abigail,Garcia,22,1,1996,1/22/1996
+3811,Marcelo,Piedrabuena,11,9,1949,9/11/1949
+3821,Ana,Vera,11,2,1956,2/11/1956
+3851,Jose Luis,Rodriguez,31,10,1970,10/31/1970
+4522,Alejandra,Cordoba,5,2,1988,2/5/1988
+4531,Rafael,Cordoba,,,,
+4541,Estela Maris,Coleti,13,8,1964,8/13/1964
+4631,Antonio,Cordoba,16,5,1993,5/16/1993
+4641,Ludmila,Gomez,3,4,2003,4/3/2003
+4661,Andrea,Cordoba,16,11,2000,11/16/2000
+5392,Francisco,Gomez,1,2,1988,2/1/1988
+5421,Marta,Vega,15,7,1958,7/15/1958
+6292,Marilin,Alvarez,15,5,1980,5/15/1980
+7431,Lelia,Loinaz,18,12,1950,12/18/1950
+7451,Catalina,Casta;eda,20,5,1942,5/20/1942
+7471,Micaela,Block,31,5,1984,5/31/1984
+10051,Duilio,Mounier,30,5,1973,5/30/1973
+10051,Miguel Angel,Mounier,9,12,1946,12/9/1946
+15092,Aldana,Tardivo,14,1,1995,1/14/1995
+15891,Jesica,Favatier,9,3,1985,3/9/1985
+16001,Silvia,Velazquez,7,10,1979,10/7/1979
+16351,Ernesto,Piris,21,4,1965,4/21/1965
+17111,Pablo,Olivieri,7,4,1993,4/7/1993
+22541,Samuel,Pereyra,24,4,1991,4/24/1991
+23081,Candelaria,Gutierrez,2,2,1946,2/2/1946
+26161,Veronica,Barche,5,3,1983,3/5/1983
